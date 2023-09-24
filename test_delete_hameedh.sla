@@ -1,0 +1,32 @@
+{
+    "class_id": "com-snaplogic-snaps-binary-binarybasicauthaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "Adobe-Dev"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "test_delete_hameedh"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "password": {
+                "expression": false,
+                "fp": "07d2e01e5e5be713338afdc2eb61a2356a823a42f2348e31663b837d6aa4bb47",
+                "key": "account-cloud-managed-53ff655950a39d5ac14d7fe9-2015-05-02T16:09:58-302548",
+                "sym_iv": "+0B3S1Sgig3cllTu/+icsA==",
+                "sym_key": "TPVMqmGT/EwlJaEEgcHPKwZS62bKJ1aNpTVR0cUq7fVI2T+NA+s58VW8BOEyE9Ti9c6OS+74qtUAT29k35Z+yLYEUlfutvwXEH9UdQffMUcWk6STo1B49XODiG6QXdxl8960jYUWT+RPj6O8YgJtJ9Iy4WSOMtu+meRQiJzmpFDmUC4jW6ELQ2xP2ui+JA5y0W90D9W8KhideoYiQQWb5GQamqsJiKscbZUKj5xS9gIZLThqwbcxkFfgyxJdSSB/zVvTAphSSImcV+Ekmts0rNKHUFWUjRmtA9SQcVCtODzrnVGRs697D+HT6QTmQ+pLuloSbCkKG4+edJzRbASiEw==",
+                "value": "mMiqCiuza07stp27P+qOTQ=="
+            },
+            "username": {
+                "expression": false,
+                "value": "hameedh@adobe.com"
+            }
+        },
+        "view_serial": 100
+    }
+}
